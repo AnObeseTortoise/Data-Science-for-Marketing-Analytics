@@ -33,3 +33,15 @@ If you've found this book useful, you might want to check out some of our other 
 * [Data Science Projects with Python](https://www.amazon.com/Data-Science-Projects-Python-approach/dp/1800564481/ref=sr_1_2?dchild=1&keywords=data+science+projects+packt&qid=1630496866&sr=8-2)
 * [The Python Workshop](https://www.amazon.com/Python-Workshop-Interactive-Approach-Learning/dp/1839218851/ref=sr_1_1?dchild=1&keywords=the+python+workshop&qid=1630565130&sr=8-1)
 * [The Applied SQL Data Analytics Workshop](https://www.amazon.com/Applied-SQL-Data-Analytics-Workshop/dp/1800203675/ref=sr_1_1?crid=EQEMIS85KGRF&dchild=1&keywords=the+applied+sql+data+analytics+workshop&qid=1630565366&sprefix=the+applied+sq%2Caps%2C378&sr=8-1)
+
+
+## Table of Contents
+ - Chapter 1: Data Preparation and Cleaning
+ - Chapter 2: Data Exploration and Visualization
+ - Chapter 3: Unsupervised Learning and Customer Segmentation
+ - Chapter 4: Evaluating and Choosing the Best Segmentation Approach
+ - Chapter 5: Predicting Customer Revenue Using Linear Regression
+ - Chapter 6: More Tools and Techniques for Evaluating Regression Models
+ - Chapter 7: Supervised Learning: Predicting Customer Churn
+ - Chapter 8: Fine-Tuning Classification Algorithms
+ - Chapter 9: Multiclass Classification Algorithms
